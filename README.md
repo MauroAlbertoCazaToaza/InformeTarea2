@@ -110,18 +110,19 @@ La corriente ahora es de 0.642 A, lo cual excede la capacidad del fusible<br>
 (c) Caída de voltaje a través de cada tramo de alambre<br>
 
 ### SECCIÓN 3–4 Cálculo de la resistencia<br>
-29. Calcule la resistencia de un reóstato para cada juego de valores de V e I
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I<br>
 [![29-1.png](https://i.postimg.cc/zXRCqMk5/29-1.png)](https://postimg.cc/3dY4Bt6b)
 [![29-2.png](https://i.postimg.cc/7LX7Byq1/29-2.png)](https://postimg.cc/kV6B4z6D)
 
 31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la
 cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con
-120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?<br>
+[![31i.png](https://i.postimg.cc/2Sr7TG4D/31i.png)](https://postimg.cc/2V9WS4cc)<br>
+[![31-2.png](https://i.postimg.cc/vT55txTT/31-2.png)](https://postimg.cc/H8sJpxQ1)<br>
 
-
-33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de
-este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
-es el problema con el circuito?
+33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
+es el problema con el circuito?<br>
+[![33.png](https://i.postimg.cc/9Xkkx6Mj/33.png)](https://postimg.cc/RqcGhbKP)<br>
 
 
 
