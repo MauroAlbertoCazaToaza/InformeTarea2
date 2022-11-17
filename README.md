@@ -185,7 +185,7 @@ Se ocupo 2.02Kw por día<br>
 23.Se conecta un resistor de 56Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
 potencia en el resistor?<br>
 
-[23-4.png](https://postimg.cc/pyrqCP37)<br>
+[![23-4.png](https://i.postimg.cc/G3JVc2Kc/23-4.png)](https://postimg.cc/pyrqCP37)
 
 
 
