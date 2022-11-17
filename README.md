@@ -134,5 +134,91 @@ es el problema con el circuito?<br>
 mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
 
+## Capitulo 2 
+# SECCIÓN 4–1 Energía y potencia
+1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.<br>
+[![4-1.png](https://i.postimg.cc/25TtYXrC/4-1.png)](https://postimg.cc/7CG9M95R)
+
+3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+350W
+
+5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+[![5-4.png](https://i.postimg.cc/bJxWMNrF/5-4.png)](https://postimg.cc/62QM4Kdd)
+
+7.. Convierta las siguientes cantidades en megawatts:
+(a) 1,000,000 W (b)3x10^6 (c)15x10^7 (d) 8700 kW
+(a) 1MW
+(b) 3MW
+(c) 150MW
+(d) 8.7MW
+
+9. Convierta las siguientes cantidades en microwatts:
+(a) 2 W (b) 0.0005 W (c) 0.25 mW (d) 0.00667 mW
+
+(a) 2,000,000  µW
+(b) 500  µW
+(c) 250  µW
+(d) 6.67 µW
+
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+[![11-4.png](https://i.postimg.cc/nrQjZg85/11-4.png)](https://postimg.cc/8fNPmyzB)
+
+13.Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su
+consumo de potencia diario promedio?
+[![13-4.png](https://i.postimg.cc/cLDnRQcF/13-4.png)](https://postimg.cc/nXDrZ9gm)
+Se ocupo 2.02Kw por día
+
+15. Convierta 6700 watts-segundos en kWh
+0.00186kWh
+
+# SECCIÓN 4–2 Potencia en un circuito eléctrico
+
+17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+[![17-4.png](https://i.postimg.cc/t4mzq08R/17-4.png)](https://postimg.cc/CRk872F9)
+
+19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+[![19-4.png](https://i.postimg.cc/0j8SGZhH/19-4.png)](https://postimg.cc/sQN1sPjp)
+
+21. Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 mA
+[![21-4.png](https://i.postimg.cc/pdCRhZYd/21-4.png)](https://postimg.cc/HJrfFbNG)
+
+23. Se conecta un resistor de 56Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
+potencia en el resistor?
+
+[23-4.png](https://postimg.cc/pyrqCP37)
+
+
+
+
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10Ω.
+(a) ¿Cuánta energía se utiliza en dos minutos?
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+[![25-4.png](https://i.postimg.cc/wBRD90CS/25-4.png)](https://postimg.cc/kV92cFXc)
+
+# SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación
+utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+Por lo menos 12 W, para permitir un margen de seguridad del
+20%
+
+
+# SECCIÓN 4–5 Fuentes de potencia
+29. Una carga de 50  utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
+es la eficiencia de esta fuente de potencia?
+
+
+
+*37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+
+
 
 
