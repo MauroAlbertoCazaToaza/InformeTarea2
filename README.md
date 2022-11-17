@@ -1,6 +1,7 @@
 # InformeTarea2
 # MARCO TEORICO
 [![Mind-Mapping-Design-Thinking-Diagram-Brainstorm-57-29-7-cm.png](https://i.postimg.cc/nhHcpkW0/Mind-Mapping-Design-Thinking-Diagram-Brainstorm-57-29-7-cm.png)](https://postimg.cc/qz5dG843)
+[![Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde.png](https://i.postimg.cc/DyW111Pv/Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde.png)](https://postimg.cc/ykHJHgGt)
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ### SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 1.En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
