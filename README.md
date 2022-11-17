@@ -1,4 +1,11 @@
 # InformeTarea2
+# OBJETIVOS
+## Objetivo General 
+Estudiar y comprender la ley de Ohm , conceptos de energia y potencia , poencia nominal en resistores, caidas de voltaje , conversion de energia en uan resitencia, mediante lectura comprensiva y resolucion de ejercicios para mediante este conociemiento realizar calculos de coorriente, voltaje y resistencia,potencia y energia de circuitos calculos basicos que dominaremos al finalizar la actividad.
+## Objetivos Especifios 
+# Comprender la relacion entre corriente, voltaje, resistencia y como la ley de Ohm describe matematicamente esta relacion para posteriormente saber cómo aplicarla.
+#  Reconocer la diferencia entre energía y potencia dentro de un circuito eléctrico, conocer sus unidades básicas y como estas están relacionadas dentro de los componentes de un circuito electrónico
+
 # MARCO TEORICO
 [![Mind-Mapping-Design-Thinking-Diagram-Brainstorm-57-29-7-cm.png](https://i.postimg.cc/nhHcpkW0/Mind-Mapping-Design-Thinking-Diagram-Brainstorm-57-29-7-cm.png)](https://postimg.cc/qz5dG843)
 [![Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-1.png](https://i.postimg.cc/htZjsYDN/Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-1.png)](https://postimg.cc/fVXDTB0v)
