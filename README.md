@@ -1,10 +1,11 @@
 # InformeTarea2
 # OBJETIVOS
-## Objetivo General 
+## Objetivo General <br>
 Estudiar y comprender la ley de Ohm , conceptos de energia y potencia , poencia nominal en resistores, caidas de voltaje , conversion de energia en uan resitencia, mediante lectura comprensiva y resolucion de ejercicios para mediante este conociemiento realizar calculos de coorriente, voltaje y resistencia,potencia y energia de circuitos calculos basicos que dominaremos al finalizar la actividad.
 ## Objetivos Especifios 
-# Comprender la relacion entre corriente, voltaje, resistencia y como la ley de Ohm describe matematicamente esta relacion para posteriormente saber cómo aplicarla.
-#  Reconocer la diferencia entre energía y potencia dentro de un circuito eléctrico, conocer sus unidades básicas y como estas están relacionadas dentro de los componentes de un circuito electrónico
+- Comprender la relacion entre corriente, voltaje, resistencia y como la ley de Ohm describe matematicamente esta relacion para posteriormente saber cómo aplicarla.
+- Reconocer la diferencia entre energía y potencia dentro de un circuito eléctrico, conocer sus unidades básicas y como estas están relacionadas dentro de los componentes de un circuito electrónico
+- Realizar medidas de voltaje, corriente y resitencia en un circuito cerrado y empezar a saber como localizar fallas en el mismo. 
 
 # MARCO TEORICO
 [![Mind-Mapping-Design-Thinking-Diagram-Brainstorm-57-29-7-cm.png](https://i.postimg.cc/nhHcpkW0/Mind-Mapping-Design-Thinking-Diagram-Brainstorm-57-29-7-cm.png)](https://postimg.cc/qz5dG843)
@@ -234,5 +235,10 @@ es la eficiencia de esta fuente de potencia?<br>
 
 [![37-4.png](https://i.postimg.cc/xdywC3V1/37-4.png)](https://postimg.cc/NyFJCT03)<br>
 
+## VIDEO
 
+## CONCLUSIONES
 
+- Corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia , algun muyb interesante que se pudo ver en graficas y de acuerdo a teoria y a quedado claro un concepto muy basico y necesario
+- Reconocer la diferencia entre energía y potencia dentro de un circuito eléctrico, conocer sus unidades básicas y como estas están relacionadas dentro de los componentes de un circuito electrónico 
+Se pudo aprender de manera teoria y experimental que para  medir voltaje se realiza la conexion en paralelo y par medir la corriente dentro de un circuito se lo realiza conectando el multimetro en serie , ademas que para analiar fallas debemos utilizar el método de análisis, planificación y medición (APM)
