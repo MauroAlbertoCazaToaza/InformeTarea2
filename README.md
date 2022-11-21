@@ -239,6 +239,6 @@ es la eficiencia de esta fuente de potencia?<br>
 
 ## CONCLUSIONES
 
-- Corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia , algun muyb interesante que se pudo ver en graficas y de acuerdo a teoria y a quedado claro un concepto muy basico y necesario
-- Reconocer la diferencia entre energía y potencia dentro de un circuito eléctrico, conocer sus unidades básicas y como estas están relacionadas dentro de los componentes de un circuito electrónico 
-Se pudo aprender de manera teoria y experimental que para  medir voltaje se realiza la conexion en paralelo y par medir la corriente dentro de un circuito se lo realiza conectando el multimetro en serie , ademas que para analiar fallas debemos utilizar el método de análisis, planificación y medición (APM)
+- Corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia , algun muyb interesante que se pudo ver en graficas y de acuerdo a teoria y a quedado claro un concepto muy basico y necesario.
+- Se lorgro conocer los conceptos de energia y potencia , ademas de conocer nuevas unidades de medida como el Wh kWh unidades que usan las compañias electricas , se logro aprender como se calcula estas nuevas unidades.
+- Se pudo aprender de manera teoria y experimental que para  medir voltaje se realiza la conexion en paralelo y par medir la corriente dentro de un circuito se lo realiza conectando el multimetro en serie , ademas que para analiar fallas debemos utilizar el método de análisis, planificación y medición (APM).
